@@ -1,2 +1,2 @@
-# windows-uk-keyboard-layout
-My Custom UK Keyboard layout
+# windows custom keyboard layout
+Based on UK Mac keyboard layout with Spanish variations.
